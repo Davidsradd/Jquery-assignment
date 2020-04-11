@@ -1,0 +1,14 @@
+{
+    "name" : "H+ Sport Product Listing Data",
+    "version" : "1.0",
+    "products" : [
+        {
+            "prod_name" : "Kobe Bryant jersey",
+            "prod_id" : "V-A1037",
+            "retail_price" : 149.99,
+            "description" : "Hardwood classic Kobe Bryant jersey",
+            "in_stock" : true,
+            "photo_src" : "images/Kobe-jersey.png"
+        }             
+    ]
+}
